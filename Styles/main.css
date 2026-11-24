@@ -26,3 +26,10 @@ h3 {
 p {
     font-family: "Oswald", sans-serif;
 }
+
+.maps {
+    /* when you size an iframe, you have to do both width and height */
+    width: 50vw;
+    height: 40vw;
+}
+
